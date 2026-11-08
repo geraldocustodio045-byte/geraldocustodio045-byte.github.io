@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.geraldocustodio045_byte.twa",
+      "sha256_cert_fingerprints": [
+        "D7:3B:6A:2F:27:01:BF:43:00:02:11:97:FE:88:73:FA:7E:66:51:02:C3:6D:AF:62:71:B3:9C:17:99:FA:AC:38"
+      ]
+    }
+  }
+]
